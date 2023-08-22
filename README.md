@@ -1,5 +1,5 @@
 # Guthierre Menezes
-Olá, sou Guthierre, sou graduado em  Analise e Desenvolvimento de Sistemas e estou .
+Olá, sou Guthierre, sou graduado em Analise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade na área de desenvolvimento.
 
 ## 🔗 Conecte-se comigo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/guthierre-barbosa-menezes-775439122/)
