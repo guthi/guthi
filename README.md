@@ -16,6 +16,3 @@ Olá, sou Guthierre, sou graduado em  Analise e Desenvolvimento de Sistemas e es
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guthi&show_icons=true&hide_title=true&hide=stars&cache_seconds=86400&theme=midnight-purple)
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guthi&theme=midnight-purple"/>
-<div>
