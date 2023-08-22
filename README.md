@@ -1,16 +1,21 @@
-### Hi there 👋
+# Guthierre Menezes
+Olá, sou Guthierre, sou graduado em  Analise e Desenvolvimento de Sistemas e estou .
 
-<!--
-**guthi/guthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Conecte-se comigo
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/guthierre-barbosa-menezes-775439122/)
 
-Here are some ideas to get you started:
+## 🛠 Habilidades
+> - Python
+> - Java
+> - Javascript
+> - HTML
+> - CSS
+> - C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guthi&show_icons=true&hide_title=true&hide=stars&cache_seconds=86400&theme=midnight-purple)
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guthi&theme=midnight-purple"/>
+<div>
