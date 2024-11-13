@@ -13,6 +13,4 @@ Sou Analista de Field com mais de 5 anos de experiência, realizando o atendimen
 > - C#
 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guthi&show_icons=true&hide_title=true&hide=stars&cache_seconds=86400&theme=midnight-purple)
 
