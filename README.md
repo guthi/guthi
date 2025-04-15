@@ -1,22 +1,36 @@
-# Guthierre Menezes
-Profissional com mais de 4 anos de experiência em suporte técnico, focado em análise e 
-desenvolvimento de sistemas. Atualmente cursando uma pós-graduação em Ciência de 
-Dados e Big Data pela PUC Minas, com sólido conhecimento em tecnologias como AWS, 
-Azure, Python, SQL, DataBrics e GitHub . Buscando oportunidades para aplicar 
-competências técnicas e analíticas na área de Ciência de Dados, com foco em resolver 
-problemas complexos e otimizar processos empresariais por meio da análise de grandes 
-volumes de dados.
+# 👨‍💻 Guthierre Menezes
+
+Profissional de Tecnologia da Informação com mais de 4 anos de experiência em **suporte técnico**, atualmente em transição para a área de **Ciência de Dados**. Cursando pós-graduação em **Ciência de Dados e Big Data** pela **PUC Minas**, com sólida base em **cloud computing**, **linguagens de programação** e **ferramentas de análise de dados**.
+
+Apaixonado por resolver problemas complexos e otimizar processos através da análise de dados. Busco oportunidades para aplicar habilidades técnicas e analíticas em projetos que gerem valor real para as organizações.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+- **Linguagens:** Python, Java, JavaScript, HTML, CSS, C#
+- **Cloud:** AWS, Azure
+- **Banco de Dados:** SQL
+- **Big Data & Análise:** Databricks, Pandas, NumPy
+- **Versionamento:** Git & GitHub
+
+---
+
+## 🎯 Objetivo
+
+Atuar na área de **Ciência de Dados**, contribuindo com soluções inteligentes baseadas em dados para apoiar a tomada de decisões, melhorar a eficiência operacional e impulsionar a inovação.
+
+---
 
 ## 🔗 Conecte-se comigo
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/guthierre-barbosa-menezes-775439122/)
 
-## 🛠 Habilidades
-> - Python
-> - Java
-> - Javascript
-> - HTML
-> - CSS
-> - C#
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guthierre-barbosa-menezes-775439122/)
 
+---
 
+## 📈 Estatísticas do GitHub
+
+![Guthierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=guthi&show_icons=true&theme=radical)
+
+---
 
