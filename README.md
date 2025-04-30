@@ -24,7 +24,7 @@ Atuar na área de **Ciência de Dados**, contribuindo com soluções inteligente
 
 ## 🔗 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guthierre-barbosa-menezes-775439122/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guthierre/)
 
 ---
 
